@@ -42,3 +42,5 @@ if you changed design tokens or other styles inside the styleguide, run the refr
 ``` bash
 $ yarn styleguide:build
 ```
+Livechat for all interested coders:
+https://discordapp.com/invite/6ub73U3
